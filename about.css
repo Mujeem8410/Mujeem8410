@@ -1,0 +1,101 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.image {
+    height: 583px;
+    background-image: url(OIP.jfif);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 1908px;
+    border: 1px solid black;
+}
+
+.comname {
+    margin-left: 200px;
+    margin-top: 30px;
+    background-color: rgb(255, 162, 0);
+    display: inline-block;
+    color: black;
+}
+
+.mujeem {
+    background-color: lightcoral;
+}
+
+.info {
+    padding: 10px;
+    text-align: justify;
+}
+
+.owner {
+    height: 600px;
+    border: 2px solid black;
+    margin-top: 40px;
+    background-color: antiquewhite;
+}
+
+.oo {
+    display: inline-block;
+    padding: 10px;
+    background-color: aqua;
+    color: red;
+}
+
+.ownerimg {
+    height: 496px;
+    width: 408px;
+    float: right;
+    /* margin-left: 592px; */
+}
+
+.muskan {
+    height: 498px;
+    margin-left: 33px;
+}
+
+.owner h2 {
+    margin-top: 10px;
+    padding-left: 10px;
+    text-align: justify;
+}
+
+.red {
+    background-color: red;
+}
+
+.main {
+    margin-left: 1600px;
+
+}
+
+.main {
+    color: rgb(255, 55, 0);
+    text-align: center;
+}
+
+.navbar {
+    /* background-color: aquamarine; */
+    background-image: url(proo..jpg);
+    background-size: cover;
+    border: 2px solid black;
+    height: 60px;
+    margin-top: 30px;
+    padding-top: 19px;
+
+}
+
+ul {}
+
+li {
+    display: inline;
+    margin-top: 30px;
+}
+
+a {
+    text-decoration: none;
+    font-size: xx-large;
+    margin: 0px 69px;
+    color: red;
+}

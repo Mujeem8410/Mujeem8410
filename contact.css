@@ -1,0 +1,103 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: burlywood;
+}
+
+.manager {
+    height: 185px;
+    border: 2px solid black;
+    background-image: url(companny2.jfif);
+    color: rgb(211, 207, 0)
+}
+
+.dept {
+    border: 2px solid black;
+    height: 185px;
+    background-repeat: repeat-x;
+    margin-top: 50px;
+    background-image: url(companny2.jfif);
+    color: white
+}
+
+.sec {
+    border: 2px solid black;
+    height: 185px;
+    background-repeat: repeat-x;
+    margin-top: 50px;
+    background-image: url(companny2.jfif);
+    color: rgb(33, 243, 9)
+}
+
+.alag {
+
+    height: 375px;
+    /* border: 5px solid black; */
+    margin-top: 100px;
+    width: 1903px;
+    background-color: whitesmoke;
+
+}
+
+.alag1 {
+    display: inline-block;
+    height: 375px;
+    margin-right: 65px;
+}
+
+.alag2 {
+    display: inline-block;
+    height: 375px;
+    margin-right: 72px;
+}
+
+.alag3 {
+    display: inline-block;
+    height: 375px;
+    margin-right: 0px;
+}
+
+.navbar {
+    /* background-color: rgb(163, 255, 127);
+     */
+    background-image: url(proo..jpg);
+    background-size: cover;
+    border: 2px solid black;
+    height: 60px;
+    margin-top: 30px;
+    padding-top: 19px;
+
+}
+
+ul {}
+
+li {
+    display: inline;
+    margin-top: 30px;
+}
+
+a {
+    text-decoration: none;
+    font-size: xx-large;
+    margin: 0px 69px;
+    color: red;
+}
+.thanks{
+    margin-top: 100px;
+height: 101px;
+width: 245px;
+background-color: rgb(48, 145, 145);
+border: 2px solid black;
+border-radius: 93px;
+margin-left: 800px;
+text-align:center;
+}
+.thanks h2{
+    
+    padding-top:30px;
+    margin-bottom:100px;
+
+}

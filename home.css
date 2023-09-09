@@ -1,0 +1,142 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.title {
+    height: 80px;
+    background: rgb(28, 214, 28);
+    border-radius: 200px;
+    border: 3px solid black;
+    display: flex;
+}
+
+.title h1 {
+    text-decoration: underline;
+    text-align: center;
+    padding-top: 10px;
+}
+
+.title img {
+    height: 83px;
+    margin-right: 648px;
+    margin-left: 20px;
+}
+
+body {
+    /* background-color: blanchedalmond; */
+}
+
+ul li {
+    display: inline-block;
+    margin: 20px;
+    font-size: 22px;
+    ;
+}
+
+ul {
+    border: 4px solid rgb(255, 0, 0)
+}
+
+.header {
+    height: 70px;
+    background-color: rgb(150, 190, 192);
+    margin-top: 10px;
+}
+
+.middle {
+    height: 600px;
+    /* background-color: aqua; */
+}
+
+.middle img {
+    margin-top: 2px;
+    height: 589px;
+    width: 2000px;
+}
+
+a {
+    text-decoration: none;
+}
+
+footer {
+    background-image: url(img32.jpg);
+    height: 31px;
+    margin-top: 0px;
+    color: ghostwhite;
+    /* padding-top: 4px; */
+    border: 3px solid black
+}
+
+/* .cont {
+    float: left;
+    background-color: blue;
+    border: 5px solid black;
+    width: 50px; */
+/* } */
+
+.mujeem {
+
+
+    height: 1304px;
+    /* background-color: aqua; */
+
+}
+
+.write {
+    width: 1202px;
+    height: 1299px;
+    overflow: hidden;
+    display: inline-block;
+    background-image: url(img33.jpeg);
+    background-size: cover;
+    border: 3px double black;
+}
+
+
+
+.inmuj {
+    height: 1285px;
+    width: 695px;
+    /* background: #4a987b; */
+    float: right;
+}
+
+.first {
+    height: 409px;
+    width: 822px;
+    margin-left: 2px;
+}
+
+.secound {
+    height: 450px;
+    width: 824px;
+    margin-left: 2px;
+}
+
+.third {
+
+    height: 432px;
+    width: 825px;
+    margin-left: 2px;
+}
+
+.write h1 {
+    text-decoration: underline;
+    color:black
+    
+}
+
+.h2{
+    text-align: left;
+    margin-left: 15px;
+    margin-top: 59px;
+    color:cyan
+}
+.down{
+    margin-top: 714px;
+    color: #18ce94;
+    text-align: left;
+    margin-left: 19px;
+}
+}
